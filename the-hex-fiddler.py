@@ -28,3 +28,7 @@ sizeofList2 = len(splithex)
 while j < sizeofList2 :
    print("dat 0x" + splithex.pop(3) + splithex.pop(2) + splithex.pop(1) + splithex.pop(0))
    j=j+4;
+
+
+print("0x00")
+print()
