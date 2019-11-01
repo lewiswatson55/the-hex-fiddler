@@ -1,16 +1,14 @@
 # the-hex-fiddler
-Python Program to Convert ASCII-Hex to dat 0x format
+Python Program to Convert ASCII to hex and then to 'dat 0x' format for use in AQA Assembly Language Simulator
 
 ## How to use:
 
 
-Step One: visit https://www.rapidtables.com/convert/number/ascii-to-hex.html
-
-Step Two: Type in required text then press convert and copy output
-
-Step Three: Run the-hex-fiddler.py in cmd/powerline 
-
-Step Four: Paste Hex, press enter, then copy output
+Run program and enter the text you want to convert to 'dat 0x' format
+Copy output onscreen and paste in Simulator
 
 
 aaaaaaaand voilà
+
+
+AQA Assembly Language Simulator: http://www.peterhigginson.co.uk/AQA/
