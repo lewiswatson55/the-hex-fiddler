@@ -1,4 +1,4 @@
-# the-hex-fiddler
+# the-hex-fiddler 2.0
 Python Program to Convert ASCII to hex and then to 'dat 0x' format for use in AQA Assembly Language Simulator.
 AQA Assembly Language Simulator: http://www.peterhigginson.co.uk/AQA/
 
